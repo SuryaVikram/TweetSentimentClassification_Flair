@@ -1,0 +1,2 @@
+# TweetSentimentClassification_Flair
+Using Flair Embeddings
